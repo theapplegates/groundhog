@@ -3,7 +3,7 @@ publishDate: 2023-08-12T00:00:00Z
 author: John Smith
 title: Get started with AstroWind to create a website using Astro and Tailwind CSS
 excerpt: Start your web journey with AstroWind – harness Astro and Tailwind CSS for a stunning site. Explore our guide now.
-image: https://res.cloudinary.com/paulapplegate-com/image/upload/v1718998272/303312-2.jpg
+image: https://res.cloudinary.com/paulapplegate-com/image/upload/v1718998272/303312-2.avif
 category: Tutorials
 tags:
   - astro
